@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>Crea chat</h1>
       <Chat />
     </>
   );
