@@ -35,7 +35,7 @@ export default function Chat() {
     if (buttonCount.length > buttonCount2.length) {
       setButtonCount2((prev) => [
         ...prev,
-        <div
+        <span
           className={classN}
           style={{
             display: "inline-block",
